@@ -14,11 +14,11 @@ pip install pycrypto
 
 
 ## Running the App
-1. Run the server through the Python file __`chat_serv.py`__:
+1. Run the server through the Python file __`server.py`__:
     ```sh
-    $ python chat_serv.py
+    $ python client.py
     ```
-2. Run the client through the Python file __`chat_clnt.py`__:
+2. Run the client through the Python file __`client.py`__:
     ```sh
-    $ python chat_clnt.py
+    $ python client.py
     ```
