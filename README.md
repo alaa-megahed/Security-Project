@@ -16,7 +16,7 @@ pip install pycrypto
 ## Running the App
 1. Run the server through the Python file __`server.py`__:
     ```sh
-    $ python client.py
+    $ python server.py
     ```
 2. Run the client through the Python file __`client.py`__:
     ```sh
